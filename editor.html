@@ -99,13 +99,13 @@ function logout(){if(changed()&&!confirm('Há alterações não publicadas. Sair
 function b64(blob){return new Promise(function(res,rej){var r=new FileReader();r.onload=function(){res(String(r.result).split(',')[1])};r.onerror=rej;r.readAsDataURL(blob)})}
 function publish(){
   if(S.busy||!changed())return;S.busy=true;drawMain();
-  var R='/repos/'+S.repo,tree=[],paths=Array.from(S.files.keys()),head,i=0;
+  var R='/repos/'+S.repo,tree=[],paths=Array.from(S.files.keys()),head,i=0,have=null;
   toast('Preparando publicação…','',0);
-  gh(R+'/git/ref/heads/'+S.branch).then(function(r){head=r.object.sha;return gh(R+'/git/commits/'+head)}).then(function(cm){
+  gh(R+'/git/ref/heads/'+S.branch).then(function(r){head=r.object.sha;return gh(R+'/git/commits/'+head).then(function(cm){return gh(R+'/git/trees/'+cm.tree.sha+'?recursive=1').then(function(et){have=et.truncated?null:new Set(et.tree.map(function(x){return x.path}));return cm},function(){return cm})})}).then(function(cm){
     tree.push({path:'content/site.json',mode:'100644',type:'blob',content:JSON.stringify(S.data,null,1)});
     var chain=Promise.resolve();
     paths.forEach(function(p){chain=chain.then(function(){toast('Enviando arquivo '+(++i)+' de '+paths.length+'…','',0);return b64(S.files.get(p))}).then(function(c){return gh(R+'/git/blobs',{method:'POST',body:{content:c,encoding:'base64'}})}).then(function(b){tree.push({path:p,mode:'100644',type:'blob',sha:b.sha})})});
-    S.dels.forEach(function(p){tree.push({path:p,mode:'100644',type:'blob',sha:null})});
+    S.dels.forEach(function(p){if(!have||have.has(p))tree.push({path:p,mode:'100644',type:'blob',sha:null})});
     return chain.then(function(){toast('Finalizando…','',0);return gh(R+'/git/trees',{method:'POST',body:{base_tree:cm.tree.sha,tree:tree}})})}).then(function(nt){
     return gh(R+'/git/commits',{method:'POST',body:{message:'Atualiza conteúdo do portfólio (editor)',tree:nt.sha,parents:[head]}})}).then(function(nc){
     return gh(R+'/git/refs/heads/'+S.branch,{method:'PATCH',body:{sha:nc.sha}})}).then(function(){
