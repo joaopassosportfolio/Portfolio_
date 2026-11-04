@@ -602,9 +602,9 @@
   {
    "id": "case-5",
    "tag": "Premiação",
-   "titulo": "Troféu Gerando Salvação 2023",
+   "titulo": "Troféu Gerando Salvação 2023 e 2024",
    "nomeCurto": "Troféu Gerando Salvação",
-   "sub": "Prêmio · 2023",
+   "sub": "Prêmio · 2023 e 2024",
    "meta": [
     "Rede Novo Tempo de Rádios",
     "2023"
@@ -650,12 +650,6 @@
      "h": 1600
     },
     {
-     "tipo": "foto",
-     "arquivo": "foto-05.webp",
-     "w": 720,
-     "h": 1280
-    },
-    {
      "tipo": "video",
      "fontes": [
       "video-01.webm",
@@ -674,6 +668,30 @@
      "poster": "video-02-poster.webp",
      "w": 540,
      "h": 960
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-06.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-07.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-08.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-09.webp",
+     "w": 828,
+     "h": 1472
     }
    ],
    "pasta": "trofeu-gerando-salvacao",
