@@ -455,8 +455,8 @@
   {
    "id": "case-3",
    "tag": "Programa de rádio · ao vivo",
-   "titulo": "33 anos da Rádio Novo Tempo",
-   "nomeCurto": "33 anos da Rádio",
+   "titulo": "34 anos da Rádio Novo Tempo",
+   "nomeCurto": "34 anos da Rádio",
    "sub": "Rádio · 2022",
    "meta": [
     "Rede Novo Tempo de Rádios",
@@ -479,6 +479,18 @@
     {
      "tipo": "youtube",
      "id": "8OgEqfqFm2k"
+    },
+    {
+     "tipo": "youtube",
+     "id": "n13N8sUGsoE"
+    },
+    {
+     "tipo": "youtube",
+     "id": "wJuapJ7NL7M"
+    },
+    {
+     "tipo": "youtube",
+     "id": "9UdU2lxztBE"
     }
    ],
    "pasta": "33-anos-da-radio",
