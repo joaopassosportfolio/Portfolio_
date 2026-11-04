@@ -147,6 +147,12 @@
      "arquivo": "foto-14.webp",
      "w": 800,
      "h": 533
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-15.webp",
+     "w": 1080,
+     "h": 1080
     }
    ],
    "pasta": "inicio-da-carreira",
