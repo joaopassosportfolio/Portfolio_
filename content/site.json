@@ -415,12 +415,6 @@
     },
     {
      "tipo": "foto",
-     "arquivo": "foto-39.webp",
-     "w": 1199,
-     "h": 1227
-    },
-    {
-     "tipo": "foto",
      "arquivo": "foto-40.webp",
      "w": 960,
      "h": 1280
@@ -644,12 +638,6 @@
      "arquivo": "foto-04.webp",
      "w": 900,
      "h": 1600
-    },
-    {
-     "tipo": "foto",
-     "arquivo": "foto-05.webp",
-     "w": 720,
-     "h": 1280
     },
     {
      "tipo": "video",
