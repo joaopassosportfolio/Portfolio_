@@ -226,13 +226,6 @@
     },
     {
      "tipo": "foto",
-     "arquivo": "foto-08.webp",
-     "w": 1600,
-     "h": 900,
-     "live": "foto-08-live.webm"
-    },
-    {
-     "tipo": "foto",
      "arquivo": "foto-09.webp",
      "w": 900,
      "h": 1600,
@@ -254,13 +247,6 @@
     },
     {
      "tipo": "foto",
-     "arquivo": "foto-12.webp",
-     "w": 1200,
-     "h": 1600,
-     "live": "foto-12-live.webm"
-    },
-    {
-     "tipo": "foto",
      "arquivo": "foto-13.webp",
      "w": 1200,
      "h": 1600,
@@ -272,13 +258,6 @@
      "w": 1600,
      "h": 1200,
      "live": "foto-14-live.webm"
-    },
-    {
-     "tipo": "foto",
-     "arquivo": "foto-15.webp",
-     "w": 900,
-     "h": 1600,
-     "live": "foto-15-live.webm"
     },
     {
      "tipo": "foto",
@@ -330,12 +309,6 @@
     },
     {
      "tipo": "foto",
-     "arquivo": "foto-24.webp",
-     "w": 1200,
-     "h": 1600
-    },
-    {
-     "tipo": "foto",
      "arquivo": "foto-25.webp",
      "w": 900,
      "h": 1600
@@ -349,12 +322,6 @@
     {
      "tipo": "foto",
      "arquivo": "foto-27.webp",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "tipo": "foto",
-     "arquivo": "foto-28.webp",
      "w": 1600,
      "h": 900
     },
@@ -397,19 +364,6 @@
     {
      "tipo": "foto",
      "arquivo": "foto-35.webp",
-     "w": 900,
-     "h": 1600
-    },
-    {
-     "tipo": "foto",
-     "arquivo": "foto-36.webp",
-     "w": 1200,
-     "h": 1600,
-     "live": "foto-36-live.webm"
-    },
-    {
-     "tipo": "foto",
-     "arquivo": "foto-37.webp",
      "w": 900,
      "h": 1600
     },
