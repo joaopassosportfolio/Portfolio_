@@ -1,24 +1,30 @@
 {
  "perfil": {
   "nome": "João Passos",
-  "funcoes": "Jornalista · Produtor · Repórter · Roteirista",
+  "funcoes": "Jornalista · Produtor · Repórter · Roteirista · Assessor de Imprensa ",
   "resumo": "Dez anos de produção para rádio, TV e plataformas digitais. Entrevistas, música ao vivo e grandes eventos: eu cuido de tudo o que acontece antes de a gravação começar.",
   "email": "joao.passos1@outlook.com",
   "whatsapp": "5512981949065",
   "whatsappExibir": "(12) 98194-9065",
   "mensagemWhats": "Olá, João! Vi seu portfólio e gostaria de conversar.",
-  "cidade": "Jataí/GO · disponível para atuação em outras cidades.",
+  "cidade": "Jataí/GO",
   "registros": "MTB radialista 0008759/PR · DRT jornalista 0100533/SP",
   "artistas": [
    "Arautos do Rei",
    "Daniela Araújo",
+   "Marcela Taís",
    "Sérgio Lopes",
    "Eli Soares",
    "Pr. Lucas",
    "Mari Borges",
    "Thaiane Seguetto",
+   "Júlia Vitória",
+   "Bruna Olly",
+   "Renatinho Max",
+   "Mari Rocha",
    "Sérgio Saas",
-   "Vocal Livre"
+   "Vocal Livre",
+   "Família Ludtke"
   ],
   "artistasRotulo": "Artistas recebidos no Clube da Música"
  },
@@ -415,6 +421,12 @@
     },
     {
      "tipo": "foto",
+     "arquivo": "foto-39.webp",
+     "w": 1199,
+     "h": 1227
+    },
+    {
+     "tipo": "foto",
      "arquivo": "foto-40.webp",
      "w": 960,
      "h": 1280
@@ -643,6 +655,12 @@
      "arquivo": "foto-04.webp",
      "w": 900,
      "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 720,
+     "h": 1280
     },
     {
      "tipo": "video",
