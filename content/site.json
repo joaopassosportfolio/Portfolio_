@@ -971,7 +971,32 @@
      ]
     }
    ],
-   "midia": [],
+   "midia": [
+    {
+     "tipo": "youtube",
+     "id": "qhky8gGHA1Q"
+    },
+    {
+     "tipo": "youtube",
+     "id": "T3ixz3QY7TA"
+    },
+    {
+     "tipo": "youtube",
+     "id": "ZVj5Ewv6w7I"
+    },
+    {
+     "tipo": "youtube",
+     "id": "PECx3MkdWfI"
+    },
+    {
+     "tipo": "youtube",
+     "id": "YbsdJyGTuP8"
+    },
+    {
+     "tipo": "youtube",
+     "id": "qGTA7NQLfNQ"
+    }
+   ],
    "pasta": "quadros-do-caixa",
    "cabecalho": false
   }
