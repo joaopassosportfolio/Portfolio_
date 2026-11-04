@@ -645,12 +645,6 @@
      "h": 1600
     },
     {
-     "tipo": "foto",
-     "arquivo": "foto-05.webp",
-     "w": 720,
-     "h": 1280
-    },
-    {
      "tipo": "video",
      "fontes": [
       "video-01.webm",
