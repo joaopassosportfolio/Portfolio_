@@ -1,0 +1,1010 @@
+{
+ "perfil": {
+  "nome": "João Passos",
+  "funcoes": "Jornalista · Produtor · Repórter · Roteirista",
+  "resumo": "Dez anos de produção para rádio, TV e plataformas digitais. Entrevistas, música ao vivo e grandes eventos: eu cuido de tudo o que acontece antes de a gravação começar.",
+  "email": "joao.passos1@outlook.com",
+  "whatsapp": "5512981949065",
+  "whatsappExibir": "(12) 98194-9065",
+  "mensagemWhats": "Olá, João! Vi seu portfólio e gostaria de conversar.",
+  "cidade": "Jataí/GO · disponível para atuação em outras cidades.",
+  "registros": "MTB radialista 0008759/PR · DRT jornalista 0100533/SP",
+  "artistas": [
+   "Arautos do Rei",
+   "Daniela Araújo",
+   "Sérgio Lopes",
+   "Eli Soares",
+   "Pr. Lucas",
+   "Mari Borges",
+   "Thaiane Seguetto",
+   "Sérgio Saas",
+   "Vocal Livre"
+  ],
+  "artistasRotulo": "Artistas recebidos no Clube da Música"
+ },
+ "cases": [
+  {
+   "id": "case-1",
+   "tag": "Esporte · rádio e web",
+   "titulo": "Repórter de rádio e esporte",
+   "nomeCurto": "Esporte e rádio",
+   "sub": "Início · 2016–18",
+   "meta": [
+    "Web Rádio RockGol",
+    "Fusão TV",
+    "Rádio Iguassu AM 830",
+    "Secretaria de Esportes do Paraná"
+   ],
+   "chips": [
+    "Reportagem ao vivo",
+    "VTs",
+    "Cobertura in loco",
+    "Assessoria de imprensa"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "Minhas primeiras experiências no jornalismo foram no setor esportivo. Desenvolvi a oratória e a habilidade de entrar ao vivo pelo rádio em um projeto independente, na cobertura do futsal, como repórter e setorista do time de São José dos Pinhais, no Paraná. Pela Fusão TV, fiz VTs jornalísticos e reportagens de quadra, com entrevistas e detalhes lance a lance na beira da quadra."
+     ]
+    },
+    {
+     "paras": [
+      "Dividi as quadras com o campo, na cobertura in loco dos estádios de Curitiba, acompanhando os times da capital paranaense em campeonatos como Brasileirão, Copa do Brasil e Paranaense. Fui repórter de campo em transmissões ao vivo em áudio na Rádio Iguassu AM 830.",
+      "Na Secretaria de Esportes do Paraná, fiz parte do time de comunicação na cobertura dos Jogos Escolares de 2017, da fase macrorregional à final. Como assessor de imprensa, fui responsável pelo resumo diário em texto dos resultados de todas as modalidades e pela cobertura fotográfica dos melhores momentos."
+     ]
+    }
+   ],
+   "midia": [
+    {
+     "tipo": "foto",
+     "arquivo": "foto-01.webp",
+     "w": 1000,
+     "h": 667
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-02.webp",
+     "w": 750,
+     "h": 741
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-03.webp",
+     "w": 750,
+     "h": 748
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-04.webp",
+     "w": 1080,
+     "h": 717
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-06.webp",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-07.webp",
+     "w": 1024,
+     "h": 683
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-08.webp",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-09.webp",
+     "w": 666,
+     "h": 444
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-10.webp",
+     "w": 1080,
+     "h": 1350
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-11.webp",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-12.webp",
+     "w": 960,
+     "h": 640
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-13.webp",
+     "w": 800,
+     "h": 533
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-14.webp",
+     "w": 800,
+     "h": 533
+    }
+   ],
+   "pasta": "inicio-da-carreira",
+   "cabecalho": false
+  },
+  {
+   "id": "case-2",
+   "tag": "Programa de rádio",
+   "titulo": "Clube da Música",
+   "nomeCurto": "Clube da Música",
+   "sub": "Rádio · 2022–23",
+   "meta": [
+    "Rede Novo Tempo de Rádios",
+    "Set 2022 – out 2023"
+   ],
+   "chips": [
+    "Produção",
+    "Roteirização",
+    "Logística",
+    "Direção de gravação"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "Um dos carros-chefe da Rádio Novo Tempo, com 19 filiais de norte a sul do Brasil: entrevista e música ao vivo, gravadas nos estúdios da rede.",
+      "Contribuí com produção, roteirização, logística e direção de gravação, recebendo grandes nomes da música gospel brasileira, como Arautos do Rei (formações de 1975, 1996 e 2022), Daniela Araújo e Eli Soares."
+     ],
+     "pull": "Por trás de cada programa há estratégia: a escolha do convidado e do assunto."
+    }
+   ],
+   "midia": [
+    {
+     "tipo": "foto",
+     "arquivo": "foto-01.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-01-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-02.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-02-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-03.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-03-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-04.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-04-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-05-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-06.webp",
+     "w": 1600,
+     "h": 1200,
+     "live": "foto-06-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-07.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-07-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-08.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-08-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-09.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-09-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-10.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-10-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-11.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-11-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-12.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-12-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-13.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-13-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-14.webp",
+     "w": 1600,
+     "h": 1200,
+     "live": "foto-14-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-15.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-15-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-16.webp",
+     "w": 1600,
+     "h": 1200
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-17.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-18.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-19.webp",
+     "w": 1600,
+     "h": 1200
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-20.webp",
+     "w": 1067,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-21.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-22.webp",
+     "w": 1067,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-23.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-24.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-25.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-26.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-27.webp",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-28.webp",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-29.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-30.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-31.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-32.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-33.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-34.webp",
+     "w": 1600,
+     "h": 1200
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-35.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-36.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-36-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-37.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-38.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-39.webp",
+     "w": 1199,
+     "h": 1227
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-40.webp",
+     "w": 960,
+     "h": 1280
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-01.webm",
+      "video-01.mp4"
+     ],
+     "poster": "video-01-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-02.webm",
+      "video-02.mp4"
+     ],
+     "poster": "video-02-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-03.webm",
+      "video-03.mp4"
+     ],
+     "poster": "video-03-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-04.webm",
+      "video-04.mp4"
+     ],
+     "poster": "video-04-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-05.webm",
+      "video-05.mp4"
+     ],
+     "poster": "video-05-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-06.webm",
+      "video-06.mp4"
+     ],
+     "poster": "video-06-poster.webp",
+     "w": 540,
+     "h": 960
+    }
+   ],
+   "pasta": "clube-da-musica",
+   "cabecalho": true
+  },
+  {
+   "id": "case-3",
+   "tag": "Programa de rádio · ao vivo",
+   "titulo": "33 anos da Rádio Novo Tempo",
+   "nomeCurto": "33 anos da Rádio",
+   "sub": "Rádio · 2022",
+   "meta": [
+    "Rede Novo Tempo de Rádios",
+    "2022"
+   ],
+   "chips": [
+    "Produção",
+    "Logística",
+    "Direção da transmissão ao vivo"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "A Rádio Novo Tempo tem 19 emissoras nas principais capitais do Brasil. No aniversário de 33 anos, o Clube da Música resgatou histórias e artistas que fizeram parte da trajetória da rádio.",
+      "Todos os dias da semana, artistas que marcaram época foram entrevistados e levaram sua música aos ouvintes, em transmissão ao vivo pelo dial, pelo aplicativo e pelo YouTube."
+     ]
+    }
+   ],
+   "midia": [],
+   "pasta": "33-anos-da-radio",
+   "cabecalho": false
+  },
+  {
+   "id": "case-4",
+   "tag": "Projeto audiovisual",
+   "titulo": "Arautos do Rei 60 anos",
+   "nomeCurto": "Arautos do Rei 60 anos",
+   "sub": "Audiovisual · Dez 2022",
+   "meta": [
+    "Rede Novo Tempo de Comunicação",
+    "Dezembro de 2022"
+   ],
+   "chips": [
+    "Direção de gravação",
+    "Ex-integrantes e formação de 2022"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "Os Arautos do Rei, quarteto gospel fundado em 1962, já tiveram 31 formações. Para celebrar os 60 anos, foi gravado um projeto audiovisual reunindo ex-integrantes e a formação do ano.",
+      "Minha contribuição foi na direção da gravação do projeto, que reuniu vozes e histórias de diferentes fases do quarteto."
+     ]
+    }
+   ],
+   "midia": [
+    {
+     "tipo": "foto",
+     "arquivo": "foto-01.webp",
+     "w": 1600,
+     "h": 1200
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-02.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-03.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-03-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-04.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 1600,
+     "h": 1200,
+     "live": "foto-05-live.webm"
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-01.webm",
+      "video-01.mp4"
+     ],
+     "poster": "video-01-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-02.webm",
+      "video-02.mp4"
+     ],
+     "poster": "video-02-poster.webp",
+     "w": 540,
+     "h": 960
+    }
+   ],
+   "pasta": "arautos-do-rei-60-anos",
+   "cabecalho": true
+  },
+  {
+   "id": "case-5",
+   "tag": "Premiação",
+   "titulo": "Troféu Gerando Salvação 2023",
+   "nomeCurto": "Troféu Gerando Salvação",
+   "sub": "Prêmio · 2023",
+   "meta": [
+    "Rede Novo Tempo de Rádios",
+    "2023"
+   ],
+   "chips": [
+    "Networking com assessorias",
+    "Representante da rádio na premiação"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "O ano de 2023 entrou para a história da Rede Novo Tempo com indicações ao Troféu Gerando Salvação, maior prêmio gospel do Brasil, que reúne os artistas mais influentes do segmento, rádios, programas e influenciadores.",
+      "Entre programas de TV e canais no YouTube, a rádio foi uma das indicadas ao prêmio do ano. Como produtor do programa gospel, sempre mantive o networking com as assessorias dos artistas e com outras emissoras. Essa posição me proporcionou fazer parte do evento como um dos representantes da rádio na premiação."
+     ]
+    }
+   ],
+   "midia": [
+    {
+     "tipo": "foto",
+     "arquivo": "foto-01.webp",
+     "w": 1200,
+     "h": 1600,
+     "live": "foto-01-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-02.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-02-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-03.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-03-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-04.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 720,
+     "h": 1280
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-01.webm",
+      "video-01.mp4"
+     ],
+     "poster": "video-01-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-02.webm",
+      "video-02.mp4"
+     ],
+     "poster": "video-02-poster.webp",
+     "w": 540,
+     "h": 960
+    }
+   ],
+   "pasta": "trofeu-gerando-salvacao",
+   "cabecalho": true
+  },
+  {
+   "id": "case-6",
+   "tag": "Programa de TV",
+   "titulo": "Do rádio para a TV: Caixa de Música",
+   "nomeCurto": "Do rádio para a TV",
+   "sub": "TV · 2023–26",
+   "meta": [
+    "TV Novo Tempo",
+    "Out 2023 – nov 2026"
+   ],
+   "chips": [
+    "Roteiro",
+    "Direção de gravações",
+    "Logística",
+    "Sugestão de artistas",
+    "Tarjas",
+    "Decupagem",
+    "Cortes para redes sociais"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "A experiência na produção de conteúdo e o contato com grandes assessorias dos principais artistas do mundo gospel me deram a chance de integrar o time da TV Novo Tempo, emissora que distribui o sinal nos canais por assinatura em todas as regiões do país e tem programação 24 horas pelo YouTube.",
+      "De outubro de 2023 a novembro de 2026, integrei a equipe do Caixa de Música, programa com mais de 18 anos no ar, transmitido de segunda a quinta e com uma edição especial aos sábados."
+     ]
+    },
+    {
+     "paras": [
+      "Como produtor de TV e autor/roteirista, levei minha experiência em criação de roteiro, direção de gravações, logística, sugestão de artistas e uma rede de contatos de assessorias de cantores renomados, adaptando a bagagem do rádio para a TV.",
+      "Além da pré-produção, minha rotina incluía a criação das tarjas (frases de impacto fixadas na tela para resumir o que está sendo transmitido), a decupagem das gravações (conferência para corrigir possíveis erros) e a separação de cortes para as redes sociais."
+     ]
+    }
+   ],
+   "midia": [
+    {
+     "tipo": "foto",
+     "arquivo": "foto-01.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-01-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-02.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-02-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-03.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-04.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-05.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-05-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-06.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-07.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-08.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-08-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-09.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-10.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-11.webp",
+     "w": 1600,
+     "h": 900,
+     "live": "foto-11-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-12.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-13.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-13-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-14.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-14-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-15.webp",
+     "w": 900,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-16.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-16-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-17.webp",
+     "w": 900,
+     "h": 1600,
+     "live": "foto-17-live.webm"
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-18.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-19.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "foto",
+     "arquivo": "foto-20.webp",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-01.webm",
+      "video-01.mp4"
+     ],
+     "poster": "video-01-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-02.webm",
+      "video-02.mp4"
+     ],
+     "poster": "video-02-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-03.webm",
+      "video-03.mp4"
+     ],
+     "poster": "video-03-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-04.webm",
+      "video-04.mp4"
+     ],
+     "poster": "video-04-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-05.webm",
+      "video-05.mp4"
+     ],
+     "poster": "video-05-poster.webp",
+     "w": 540,
+     "h": 960
+    },
+    {
+     "tipo": "video",
+     "fontes": [
+      "video-06.webm",
+      "video-06.mp4"
+     ],
+     "poster": "video-06-poster.webp",
+     "w": 540,
+     "h": 960
+    }
+   ],
+   "pasta": "caixa-de-musica",
+   "cabecalho": true
+  },
+  {
+   "id": "case-7",
+   "tag": "Quadros de TV",
+   "titulo": "“Na sala de casa” e “Na estrada”",
+   "nomeCurto": "Quadros do Caixa",
+   "sub": "TV · 11 episódios",
+   "meta": [
+    "Caixa de Música",
+    "11 episódios",
+    "Mais de 81 mil visualizações"
+   ],
+   "chips": [
+    "Roteiro",
+    "Direção de gravações",
+    "Decupagem"
+   ],
+   "textos": [
+    {
+     "paras": [
+      "Roteirizei, dirigi as gravações e fiz a decupagem de dois quadros para o Caixa de Música, totalizando 11 episódios sobre os bastidores e a rotina dos artistas da Gravadora Novo Tempo fora dos palcos. Os episódios foram ao ar no programa e também no canal oficial, somando mais de 81 mil visualizações."
+     ]
+    },
+    {
+     "paras": [
+      "“Na sala de casa” mostrou a rotina dos artistas longe dos palcos: em família, no lazer, e os processos de gravação e planejamento que antecedem as agendas.",
+      "“Na estrada” acompanhou, junto com o cinegrafista, o trabalho dos artistas em apresentações Brasil afora, com os desafios e os bastidores de uma apresentação."
+     ]
+    }
+   ],
+   "midia": [],
+   "pasta": "quadros-do-caixa",
+   "cabecalho": false
+  }
+ ],
+ "trajetoria": [
+  {
+   "periodo": "Desde 2019",
+   "cargo": "Produtor e roteirista · rádio e TV",
+   "onde": "Rede Novo Tempo de Comunicação",
+   "itens": [
+    "Produção e roteirização de programas de rádio e TV",
+    "Pautas e roteiros de entrevistas no programa Caixa de Música",
+    "Direção de gravações em switcher",
+    "Conteúdo para YouTube e multiplataformas",
+    "Grandes eventos e transmissões especiais"
+   ]
+  },
+  {
+   "periodo": "2017 – 2018",
+   "cargo": "Repórter e assessor de imprensa",
+   "onde": "Secretaria de Esporte e Lazer do Paraná",
+   "itens": [
+    "Jogos Escolares do Paraná e Superliga B de Vôlei",
+    "Cobertura de eventos esportivos, releases e matérias",
+    "Produção fotográfica e apoio institucional"
+   ]
+  },
+  {
+   "periodo": "2017 – 2018",
+   "cargo": "Repórter, apresentador e produtor",
+   "onde": "Fusão TV – Web",
+   "itens": [
+    "Liga de Futsal do Paraná, Superliga de Vôlei, Taça Paraná e campeonatos de base",
+    "Reportagens, apresentação e edição audiovisual"
+   ]
+  },
+  {
+   "periodo": "2016 – 2017",
+   "cargo": "Repórter esportivo",
+   "onde": "Rádio Iguassu AM 830 · Araucária/PR",
+   "itens": [
+    "Brasileirão, Copa do Brasil e Campeonato Paranaense, direto dos estádios",
+    "Entrevistas com jogadores, técnicos e dirigentes",
+    "Reportagens, apresentação e edição de áudio"
+   ]
+  }
+ ],
+ "formacao": {
+  "cursos": [
+   {
+    "titulo": "Pós-graduação em Produção Multimídia para Rádio e TV",
+    "onde": "Faculdade Unopar · 2025 – 2026"
+   },
+   {
+    "titulo": "Bacharelado em Jornalismo",
+    "onde": "Universidade Cruzeiro do Sul · 2019 – 2023"
+   },
+   {
+    "titulo": "Identidade Adventista (DSA)",
+    "onde": "SEVEN PRO · em andamento"
+   }
+  ],
+  "competencias": [
+   "Reportagem",
+   "Roteirização",
+   "Entrevistas",
+   "Criação de pautas",
+   "Direção de gravação (switcher)",
+   "Produção para rádio e TV",
+   "YouTube e multiplataformas",
+   "Edição de vídeo (Premiere, Vegas)",
+   "Edição de áudio",
+   "Assessoria de imprensa"
+  ]
+ }
+}
