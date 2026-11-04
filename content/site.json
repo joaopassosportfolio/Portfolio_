@@ -512,7 +512,12 @@
      ]
     }
    ],
-   "midia": [],
+   "midia": [
+    {
+     "tipo": "youtube",
+     "id": "8OgEqfqFm2k"
+    }
+   ],
    "pasta": "33-anos-da-radio",
    "cabecalho": false
   },
